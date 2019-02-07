@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1076963659408",
+    "firebase_url": "https://test-foodie1.firebaseio.com",
+    "project_id": "test-foodie1",
+    "storage_bucket": "test-foodie1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076963659408:android:564995ab7c362366",
+        "android_client_info": {
+          "package_name": "com.sanka.testlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076963659408-hvrfhpjnulj6fuel22c7t4vcmhs25bqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanka.testlogin",
+            "certificate_hash": "b091b4d6023b4ae83ab59b8c9fb6025f87c2c3ea"
+          }
+        },
+        {
+          "client_id": "1076963659408-ccle3gmu7ok4a5kuif389lij81vcfiit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4xTkPyt2PPYKU8-BgeGwKc9moC1ieXnM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076963659408-ccle3gmu7ok4a5kuif389lij81vcfiit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
